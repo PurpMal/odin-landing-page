@@ -9,7 +9,7 @@ html, body {
 .body {
     display: flex;
     flex-direction: column;
-    padding-bottom: 100%;
+    padding-bottom: 90px;
 }
 
 .body > div {
