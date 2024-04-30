@@ -87,9 +87,15 @@ a {
 }
 
 .placeholder-image img {
-    max-width:100%;
     border: 2px solid white;
     border-radius: 10px;
+    background-color: #b0bec5;
+    height:100%;
+    width:600px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color:white;
 }
 
 .container {
@@ -117,7 +123,10 @@ a {
     display: block; 
     width: 100%;
     height: auto;
-    border-radius: 10px; 
+    border-radius: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #b0bec5; 
 }
 
 .card p {
